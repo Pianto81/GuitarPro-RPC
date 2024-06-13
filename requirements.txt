@@ -1,0 +1,6 @@
+pypresence
+time
+subprocess
+dotenv
+pywinauto
+threading
