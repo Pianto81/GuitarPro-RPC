@@ -12,11 +12,11 @@ First of all, you will need to get the inital configuration done, assuming that 
 - Get all the packages needed trough the ```pip install -r requirements.txt```
 - Create an app in Discord's developper portal and make sure that
     - The name is corresponding to your Guitar Pro version.
-    - You upload the [[guitarpro.png]] image into the Rich Presence > Art Assets tab.
+    - You upload the ```guitarpro.png``` image into the Rich Presence > Art Assets tab.
     - Copy the APPLICATION ID from the General Information tab.
-- Configure the app by specifying your discord app client ID you just copied, the Guitar Pro version and the name of the main executable in the [[.env]] file.
-- Put the [[main.py]] and [[.env]] files in the root of your installation.
+- Configure the app by specifying your discord app client ID you just copied, the Guitar Pro version and the name of the main executable in the ```.env``` file.
+- Put the ```main.py``` and ```.env``` files in the root of your installation.
 
 ## Usage
 
-Simply run the [[main.py]] file instead of the normal executable.
+Simply run the ```main.py``` file instead of the normal executable.
